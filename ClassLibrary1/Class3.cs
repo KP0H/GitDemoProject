@@ -10,6 +10,7 @@ namespace ClassLibrary1
 	{
 		public void Execute()
 		{
+			int ad = 78;
 			throw new NotImplementedException();
 		}
 	}
