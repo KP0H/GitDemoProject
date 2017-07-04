@@ -15,6 +15,7 @@ namespace ConsoleApplication1
 			c1.Execute();
 			Class2 c2 = new Class2();
 			Class3 c3 = new Class3();
+			c3.Execute();
 		}
 	}
 }

@@ -10,6 +10,7 @@ namespace ClassLibrary1
 	{
 		public void Execute()
 		{
+			int b = 728;
 			int a = 1;
 			a++;
 		}
