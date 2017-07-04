@@ -11,6 +11,7 @@ namespace ClassLibrary1
 		public void Execute()
 		{
 			int a = 1;
+			a++;
 		}
 	}
 }
