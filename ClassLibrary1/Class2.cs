@@ -11,6 +11,8 @@ namespace ClassLibrary1
 		public void Execute()
 		{
 			var b = 1;
+			
+			test();
 		}
 	}
 }
